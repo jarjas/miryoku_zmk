@@ -12,4 +12,5 @@ jobs:
       shield: '["corne_left","corne_right"]'
       kconfig: '["CONFIG_ZMK_POINTING=y"]'
       alphas: '["qwerty"]'
-      custom_config: '["#define U_TAPPING_TERM 2000"]'
+
+#custom_config: '["#define U_TAPPING_TERM 2000"]'
