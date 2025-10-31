@@ -11,5 +11,5 @@ jobs:
       board: '["nice_nano"]'
       shield: '["corne_left","corne_right"]'
       kconfig: '["CONFIG_ZMK_POINTING=y"]'
-      alphas: '["ColemakDHK"]'
-      custom_config: '["#define TAPPING_TERM 2000"]'
+      alphas: '["qwerty"]'
+      custom_config: '["#define U_TAPPING_TERM 2000"]'
