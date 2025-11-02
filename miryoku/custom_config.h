@@ -15,4 +15,4 @@
 
 #include "miryoku.h"
 
-#define U_TAPPING_TERM 800
+#define U_TAPPING_TERM 300
