@@ -20,4 +20,4 @@
 
 #include "miryoku.h"
 
-#define U_TAPPING_TERM 300
+//#define U_TAPPING_TERM 300
