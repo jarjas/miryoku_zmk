@@ -18,6 +18,6 @@
 #define MIRYOKU_KLUDGE_TOPROWCOMBOS
 #define MIRYOKU_KLUDGE_BOTTOMROWCOMBOS
 
-#include "miryoku.h"
+//#include "miryoku.h"
 
 //#define U_TAPPING_TERM 300
