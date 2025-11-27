@@ -17,6 +17,7 @@
 #define MIRYOKU_KLUDGE_THUMBCOMBOS
 #define MIRYOKU_KLUDGE_TOPROWCOMBOS
 #define MIRYOKU_KLUDGE_BOTTOMROWCOMBOS
+#define MIRYOKU_KLUDGE_GLOBALSHIFTFUNCTIONS   // combos fails without that
 
 #include "miryoku.h"
 
