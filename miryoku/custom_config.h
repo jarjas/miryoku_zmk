@@ -19,6 +19,6 @@
 #define MIRYOKU_KLUDGE_BOTTOMROWCOMBOS
 #define MIRYOKU_KLUDGE_GLOBALSHIFTFUNCTIONS   // combos fails without that
 
-#include "miryoku.h"
+//#include "miryoku.h"
 
-#define U_TAPPING_TERM 300
+//#define U_TAPPING_TERM 300
